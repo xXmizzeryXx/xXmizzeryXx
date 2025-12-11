@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mizzery
 
-![avatar](https://github.com/xXmizzeryXx.png)
-
 > Web Developer — creator of many school proxies. Eager to learn how to code and refine my skills.  
 > He/Him • 14 • High schooler
 
