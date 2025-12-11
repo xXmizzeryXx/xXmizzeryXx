@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mizzery
 
 > Web Developer — creator of many school proxies. Eager to learn how to code and refine my skills.  
-> He/Him • 14 • High schooler
+> He/Him • 14 • High Schooler
 
 [![Status](https://img.shields.io/badge/status-active-blue?style=for-the-badge&logo=github)](https://github.com/xXmizzeryXx)
 [![Top Language](https://img.shields.io/github/languages/top/xXmizzeryXx?style=for-the-badge)](https://github.com/xXmizzeryXx)
