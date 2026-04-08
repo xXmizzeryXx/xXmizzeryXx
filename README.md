@@ -44,8 +44,8 @@ Here are a few favorites — provide repo links or short descriptions and I’ll
 ---
 
 ## Contact
-- Email: saltnationmc@gmail.com (partner inquiries)
-- Discord: @mizzery_saltyy
+- Email: eclipseservicesandwebsites@gmail.com (partner inquiries)
+- Discord: @mizzerythedev
 
 Feel free to reach out for collaborations or questions about my projects.
 
