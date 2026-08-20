@@ -4,7 +4,7 @@ I'm a developer who likes building things and experimenting with software.
 
 Currently working with **web development, C++, WebAssembly, and Windows**.
 
-## 🛠️ Tech
+## Development Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -13,7 +13,7 @@ Currently working with **web development, C++, WebAssembly, and Windows**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 
-## 🚀 Projects
+## Projects
 
 - 🟣 [Plutonium Network](https://github.com/Plutonium-Net) — Open-source software organization
 - 🌐 [Plutonium Recursion](https://github.com/Plutonium-Net/plutonium-recursion) — A browser inside a browser
