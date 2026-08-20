@@ -15,7 +15,7 @@ Currently working with **web development, C++, WebAssembly, and Windows**.
 
 ## 🚀 Projects
 
-- 🟣 [Plutonium-Net](https://github.com/Plutonium-Net) — Open-source software organization
+- 🟣 [Plutonium Network](https://github.com/Plutonium-Net) — Open-source software organization
 - 🌐 [Plutonium Recursion](https://github.com/Plutonium-Net/plutonium-recursion) — A browser inside a browser
 - 🛠️ [CustomNew](https://github.com/Plutonium-Net/CustomNew) — Create files with any extension directly from File Explorer
 
