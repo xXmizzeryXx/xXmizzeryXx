@@ -19,7 +19,7 @@ Currently working with **web development, C++, WebAssembly, and Windows**.
 - 🌐 [Plutonium Recursion](https://github.com/Plutonium-Net/plutonium-recursion) — A browser inside a browser
 - 🛠️ [CustomNew](https://github.com/Plutonium-Net/CustomNew) — Create files with any extension directly from File Explorer
 
-## 🔗
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-xXmizzeryXx-181717?style=flat-square&logo=github)](https://github.com/xXmizzeryXx)
 
