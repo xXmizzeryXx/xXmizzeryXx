@@ -1,4 +1,4 @@
-# Hey, I'm Mizz 👋
+# Hey, I'm Xyzrium 👋
 
 I'm a developer who likes building things and experimenting with software.
 
