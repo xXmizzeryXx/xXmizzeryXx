@@ -23,6 +23,5 @@ Currently working with **web development, C++, WebAssembly, and Windows**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-xXmizzeryXx-181717?style=flat-square&logo=github)](https://github.com/xXmizzeryXx)
 [![Now playing on Spotify](https://spotifystats.com/badge/tBN1WULSOpdTuLxuepajqhU67fv659oMcveh2kaD.svg)](https://spotifystats.com/badge/tBN1WULSOpdTuLxuepajqhU67fv659oMcveh2kaD/open)
-<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
 
 ---
